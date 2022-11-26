@@ -60,29 +60,29 @@ T1
 # True means that the model has predicted that the
 # event has occurred
 
-# 9 implies that the event did not happen and 
-# and the model also predicted 9 times that the
+# 457 implies that the event did not happen and 
+# and the model also predicted 457 times that the
 # event did not occur. This is also called True negative
 
-# 3 implies that the 3 times the model predicted 
+# 150 implies that the 150 times the model predicted 
 # that the event did not occur when it actually occurred.
 # This is known as false positive
 
 
-# 3 implies that three times the model predicted that the 
+# 33 implies that 33 times the model predicted that the 
 # event happened when it did not occur actually
 # This is known as false negative.
 
 
-# 9 implies that twelve times the model predicted that
+# 118 implies that 118 times the model predicted that
 # the event happen when it actually happened.
 # This is called true positive
 
 
 
 
-# Accuracy of the model is True Negative (9)
-# and True Positive (9) of the total
+# Accuracy of the model is True Negative (467)
+# and True Positive (118) of the total
 
 # Accuracy = (TP + TN)/Total
 # Sensitivity = TP/(TP + FN)
